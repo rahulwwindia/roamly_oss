@@ -1,0 +1,8 @@
+label.login=Login
+label.title=Roamly Mobile
+label.userName=User Name
+label.password=Password
+label.signUp=Sign Up
+label.loginErrorMessage=Your login attempt was not successful, try again.
+label.caused=Caused:
+label.forgotPassword=Forgot Password?

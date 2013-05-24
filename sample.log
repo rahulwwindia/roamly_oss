@@ -1,0 +1,1710 @@
+14962 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+14962 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+12422 [http-8080-1] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+12422 [http-8080-1] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+22391 [http-8080-3] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+22408 [http-8080-3] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+9548 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+9548 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+307629 [http-8080-6] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+307629 [http-8080-6] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+367705 [http-8080-6] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+367705 [http-8080-6] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+405051 [http-8080-6] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+405052 [http-8080-6] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+563749 [http-8080-6] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+563749 [http-8080-6] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+624234 [http-8080-5] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+624234 [http-8080-5] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+11114 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+11114 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+52074 [http-8080-6] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+52074 [http-8080-6] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+54425 [http-8080-6] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+54425 [http-8080-6] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+82409 [http-8080-6] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+82409 [http-8080-6] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+12926 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+12927 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+87948 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+87948 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+30001 [http-8080-7] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+30001 [http-8080-7] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+19948 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+19948 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+280387 [http-8080-3] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+280387 [http-8080-3] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+6782 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+6782 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+7108 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7108 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+7294 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7294 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+18828 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+18828 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+36478 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+36478 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+41038 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+41038 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+7471 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7471 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+91486 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+91486 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+1532 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Unsupported configuration attributes: [ADMIN_USER]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:426)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1361)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1653)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1642)
+	at java.lang.Thread.run(Thread.java:679)
+Caused by: java.lang.IllegalArgumentException: Unsupported configuration attributes: [ADMIN_USER]
+	at org.springframework.security.access.intercept.AbstractSecurityInterceptor.afterPropertiesSet(AbstractSecurityInterceptor.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 22 more
+2388 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Unsupported configuration attributes: [ADMIN_USER]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalArgumentException: Unsupported configuration attributes: [ADMIN_USER]
+	at org.springframework.security.access.intercept.AbstractSecurityInterceptor.afterPropertiesSet(AbstractSecurityInterceptor.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 27 more
+2633 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Unsupported configuration attributes: [ADMIN_USER]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalArgumentException: Unsupported configuration attributes: [ADMIN_USER]
+	at org.springframework.security.access.intercept.AbstractSecurityInterceptor.afterPropertiesSet(AbstractSecurityInterceptor.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 27 more
+2584 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Unsupported configuration attributes: [ADMIN_USER]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalArgumentException: Unsupported configuration attributes: [ADMIN_USER]
+	at org.springframework.security.access.intercept.AbstractSecurityInterceptor.afterPropertiesSet(AbstractSecurityInterceptor.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 27 more
+2412 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Unsupported configuration attributes: [USER_ADMIN]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalArgumentException: Unsupported configuration attributes: [USER_ADMIN]
+	at org.springframework.security.access.intercept.AbstractSecurityInterceptor.afterPropertiesSet(AbstractSecurityInterceptor.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 27 more
+2256 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Unsupported configuration attributes: [hasRole('USER_ADMIN')]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalArgumentException: Unsupported configuration attributes: [hasRole('USER_ADMIN')]
+	at org.springframework.security.access.intercept.AbstractSecurityInterceptor.afterPropertiesSet(AbstractSecurityInterceptor.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 27 more
+2380 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Unsupported configuration attributes: [hasRole('ROLE_ADMIN')]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalArgumentException: Unsupported configuration attributes: [hasRole('ROLE_ADMIN')]
+	at org.springframework.security.access.intercept.AbstractSecurityInterceptor.afterPropertiesSet(AbstractSecurityInterceptor.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 27 more
+2247 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Unsupported configuration attributes: [permitAll, hasRole('ROLE_ADMIN')]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalArgumentException: Unsupported configuration attributes: [permitAll, hasRole('ROLE_ADMIN')]
+	at org.springframework.security.access.intercept.AbstractSecurityInterceptor.afterPropertiesSet(AbstractSecurityInterceptor.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 27 more
+2306 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.web.access.intercept.FilterSecurityInterceptor#0': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Unsupported configuration attributes: [permitAll, hasRole('ROLE_ADMIN')]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1455)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalArgumentException: Unsupported configuration attributes: [permitAll, hasRole('ROLE_ADMIN')]
+	at org.springframework.security.access.intercept.AbstractSecurityInterceptor.afterPropertiesSet(AbstractSecurityInterceptor.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1452)
+	... 27 more
+1180 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0': Initialization of bean failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping found. Cannot map 'loginController' bean method 
+public void com.roamly.oss.controllers.customer.LoginController.testLogin()
+to {[/login.htm],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}: There is already '/customer/' bean method
+public void com.roamly.oss.controllers.customer.test.testLogin() mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:527)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping found. Cannot map 'loginController' bean method 
+public void com.roamly.oss.controllers.customer.LoginController.testLogin()
+to {[/login.htm],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}: There is already '/customer/' bean method
+public void com.roamly.oss.controllers.customer.test.testLogin() mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:183)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:147)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:109)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initApplicationContext(AbstractHandlerMethodMapping.java:89)
+	at org.springframework.context.support.ApplicationObjectSupport.initApplicationContext(ApplicationObjectSupport.java:119)
+	at org.springframework.web.context.support.WebApplicationObjectSupport.initApplicationContext(WebApplicationObjectSupport.java:72)
+	at org.springframework.context.support.ApplicationObjectSupport.setApplicationContext(ApplicationObjectSupport.java:73)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.invokeAwareInterfaces(ApplicationContextAwareProcessor.java:117)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.postProcessBeforeInitialization(ApplicationContextAwareProcessor.java:92)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:394)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1448)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	... 26 more
+1328 [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0': Initialization of bean failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping found. Cannot map 'loginController' bean method 
+public void com.roamly.oss.controllers.customer.LoginController.testLogin()
+to {[/login.htm],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}: There is already '/customer/' bean method
+public void com.roamly.oss.controllers.customer.test.testLogin() mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:527)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping found. Cannot map 'loginController' bean method 
+public void com.roamly.oss.controllers.customer.LoginController.testLogin()
+to {[/login.htm],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}: There is already '/customer/' bean method
+public void com.roamly.oss.controllers.customer.test.testLogin() mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:183)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:147)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:109)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initApplicationContext(AbstractHandlerMethodMapping.java:89)
+	at org.springframework.context.support.ApplicationObjectSupport.initApplicationContext(ApplicationObjectSupport.java:119)
+	at org.springframework.web.context.support.WebApplicationObjectSupport.initApplicationContext(WebApplicationObjectSupport.java:72)
+	at org.springframework.context.support.ApplicationObjectSupport.setApplicationContext(ApplicationObjectSupport.java:73)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.invokeAwareInterfaces(ApplicationContextAwareProcessor.java:117)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.postProcessBeforeInitialization(ApplicationContextAwareProcessor.java:92)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:394)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1448)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	... 26 more
+8260 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+8260 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+24688 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+24688 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+7987 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7987 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+7442 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7442 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+558  [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 52 in XML document from ServletContext resource [/WEB-INF/spring/webmvc-context.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 38; cvc-complex-type.2.4.c: The matching wildcard is strict, but no declaration can be found for element 'security:authentication-manager'.
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:396)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:334)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:125)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:94)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:522)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:436)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 38; cvc-complex-type.2.4.c: The matching wildcard is strict, but no declaration can be found for element 'security:authentication-manager'.
+	at org.apache.xerces.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at org.apache.xerces.util.ErrorHandlerWrapper.error(Unknown Source)
+	at org.apache.xerces.impl.XMLErrorReporter.reportError(Unknown Source)
+	at org.apache.xerces.impl.XMLErrorReporter.reportError(Unknown Source)
+	at org.apache.xerces.impl.xs.XMLSchemaValidator$XSIErrorReporter.reportError(Unknown Source)
+	at org.apache.xerces.impl.xs.XMLSchemaValidator.reportSchemaError(Unknown Source)
+	at org.apache.xerces.impl.xs.XMLSchemaValidator.handleStartElement(Unknown Source)
+	at org.apache.xerces.impl.xs.XMLSchemaValidator.startElement(Unknown Source)
+	at org.apache.xerces.impl.XMLNSDocumentScannerImpl.scanStartElement(Unknown Source)
+	at org.apache.xerces.impl.XMLDocumentFragmentScannerImpl$FragmentContentDispatcher.dispatch(Unknown Source)
+	at org.apache.xerces.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source)
+	at org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at org.apache.xerces.parsers.DOMParser.parse(Unknown Source)
+	at org.apache.xerces.jaxp.DocumentBuilderImpl.parse(Unknown Source)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:75)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:388)
+	... 28 more
+457  [main] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 52 in XML document from ServletContext resource [/WEB-INF/spring/webmvc-context.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 38; cvc-complex-type.2.4.c: The matching wildcard is strict, but no declaration can be found for element 'security:authentication-manager'.
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:396)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:334)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:125)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:94)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:522)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:436)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:840)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1057)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:463)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:525)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:754)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 52; columnNumber: 38; cvc-complex-type.2.4.c: The matching wildcard is strict, but no declaration can be found for element 'security:authentication-manager'.
+	at org.apache.xerces.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at org.apache.xerces.util.ErrorHandlerWrapper.error(Unknown Source)
+	at org.apache.xerces.impl.XMLErrorReporter.reportError(Unknown Source)
+	at org.apache.xerces.impl.XMLErrorReporter.reportError(Unknown Source)
+	at org.apache.xerces.impl.xs.XMLSchemaValidator$XSIErrorReporter.reportError(Unknown Source)
+	at org.apache.xerces.impl.xs.XMLSchemaValidator.reportSchemaError(Unknown Source)
+	at org.apache.xerces.impl.xs.XMLSchemaValidator.handleStartElement(Unknown Source)
+	at org.apache.xerces.impl.xs.XMLSchemaValidator.startElement(Unknown Source)
+	at org.apache.xerces.impl.XMLNSDocumentScannerImpl.scanStartElement(Unknown Source)
+	at org.apache.xerces.impl.XMLDocumentFragmentScannerImpl$FragmentContentDispatcher.dispatch(Unknown Source)
+	at org.apache.xerces.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source)
+	at org.apache.xerces.parsers.XML11Configuration.parse(Unknown Source)
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source)
+	at org.apache.xerces.parsers.DOMParser.parse(Unknown Source)
+	at org.apache.xerces.jaxp.DocumentBuilderImpl.parse(Unknown Source)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:75)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:388)
+	... 28 more
+13924 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+13924 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+374992 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+374992 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+10926 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+10949 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+21151 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+21151 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+2033 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+2034 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+13142 [http-8080-2] ERROR com.roamly.oss.controllers.administrator.Admin  - Sample error message
+13145 [http-8080-2] FATAL com.roamly.oss.controllers.administrator.Admin  - Sample fatal message
+18648 [http-8080-2] ERROR com.roamly.oss.controllers.administrator.Admin  - Sample error message
+18648 [http-8080-2] FATAL com.roamly.oss.controllers.administrator.Admin  - Sample fatal message
+171655 [http-8080-2] ERROR com.roamly.oss.controllers.administrator.Admin  - Sample error message
+171655 [http-8080-2] FATAL com.roamly.oss.controllers.administrator.Admin  - Sample fatal message
+511466 [http-8080-6] ERROR com.roamly.oss.controllers.administrator.Admin  - Sample error message
+511466 [http-8080-6] FATAL com.roamly.oss.controllers.administrator.Admin  - Sample fatal message
+315139 [http-8080-6] ERROR com.roamly.oss.controllers.administrator.Admin  - Sample error message
+315139 [http-8080-6] FATAL com.roamly.oss.controllers.administrator.Admin  - Sample fatal message
+12585 [http-8080-2] ERROR com.roamly.oss.controllers.administrator.Admin  - Sample error message
+12586 [http-8080-2] FATAL com.roamly.oss.controllers.administrator.Admin  - Sample fatal message
+27492 [http-8080-2] ERROR com.roamly.oss.controllers.administrator.Admin  - Sample error message
+27492 [http-8080-2] FATAL com.roamly.oss.controllers.administrator.Admin  - Sample fatal message
+7337 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7337 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+21258 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+21258 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+39781 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+39782 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+23792 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+23819 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+11304 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+11355 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+10671 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+10671 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+1087 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0': Initialization of bean failed; nested exception is java.lang.NoClassDefFoundError: HttpServletRequest
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:527)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:426)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1361)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1653)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1642)
+	at java.lang.Thread.run(Thread.java:679)
+Caused by: java.lang.NoClassDefFoundError: HttpServletRequest
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2444)
+	at java.lang.Class.getDeclaredMethods(Class.java:1808)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:467)
+	at org.springframework.web.method.HandlerMethodSelector.selectMethods(HandlerMethodSelector.java:58)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:139)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:109)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initApplicationContext(AbstractHandlerMethodMapping.java:89)
+	at org.springframework.context.support.ApplicationObjectSupport.initApplicationContext(ApplicationObjectSupport.java:119)
+	at org.springframework.web.context.support.WebApplicationObjectSupport.initApplicationContext(WebApplicationObjectSupport.java:72)
+	at org.springframework.context.support.ApplicationObjectSupport.setApplicationContext(ApplicationObjectSupport.java:73)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.invokeAwareInterfaces(ApplicationContextAwareProcessor.java:117)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.postProcessBeforeInitialization(ApplicationContextAwareProcessor.java:92)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:394)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1448)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	... 21 more
+Caused by: java.lang.ClassNotFoundException: HttpServletRequest
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1680)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1526)
+	... 37 more
+12962 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+12962 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+1598 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'test' defined in file [/home/webwerks/PolarWork/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/roamly-oss/WEB-INF/classes/com/roamly/oss/controllers/customer/test.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.customer.test]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	This method must return a result of type String
+	MAX_MEMORY_SIZE cannot be resolved to a variable
+	The method getServletContext() is undefined for the type test
+	DATA_DIRECTORY cannot be resolved to a variable
+	MAX_REQUEST_SIZE cannot be resolved to a variable
+	The method getServletContext() is undefined for the type test
+	Syntax error, insert "Finally" to complete TryStatement
+	Syntax error, insert "}" to complete ClassBody
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:997)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:943)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:485)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:426)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1361)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1653)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1642)
+	at java.lang.Thread.run(Thread.java:679)
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.customer.test]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	This method must return a result of type String
+	MAX_MEMORY_SIZE cannot be resolved to a variable
+	The method getServletContext() is undefined for the type test
+	DATA_DIRECTORY cannot be resolved to a variable
+	MAX_REQUEST_SIZE cannot be resolved to a variable
+	The method getServletContext() is undefined for the type test
+	Syntax error, insert "Finally" to complete TryStatement
+	Syntax error, insert "}" to complete ClassBody
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:162)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:76)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:990)
+	... 23 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	This method must return a result of type String
+	MAX_MEMORY_SIZE cannot be resolved to a variable
+	The method getServletContext() is undefined for the type test
+	DATA_DIRECTORY cannot be resolved to a variable
+	MAX_REQUEST_SIZE cannot be resolved to a variable
+	The method getServletContext() is undefined for the type test
+	Syntax error, insert "Finally" to complete TryStatement
+	Syntax error, insert "}" to complete ClassBody
+
+	at com.roamly.oss.controllers.customer.test.<init>(test.java:57)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:532)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:147)
+	... 25 more
+8961 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+8961 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+153055 [http-8080-1] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+153055 [http-8080-1] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+8492 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+8492 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+10089 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+10111 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+200228 [http-8080-6] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+200228 [http-8080-6] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+1487 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0': Initialization of bean failed; nested exception is org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.roamly.oss.controllers.security.CustomAuthenticationProvider] for bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]; nested exception is java.lang.ClassNotFoundException: com.roamly.oss.controllers.security.CustomAuthenticationProvider
+Related cause: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.roamly.oss.controllers.security.CustomAuthenticationProvider] for bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]; nested exception is java.lang.ClassNotFoundException: com.roamly.oss.controllers.security.CustomAuthenticationProvider
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:527)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:426)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1361)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1653)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1642)
+	at java.lang.Thread.run(Thread.java:679)
+Caused by: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.roamly.oss.controllers.security.CustomAuthenticationProvider] for bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]; nested exception is java.lang.ClassNotFoundException: com.roamly.oss.controllers.security.CustomAuthenticationProvider
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1262)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1331)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:317)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:298)
+	at org.springframework.context.support.AbstractApplicationContext.getBeanNamesForType(AbstractApplicationContext.java:1150)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:105)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initApplicationContext(AbstractHandlerMethodMapping.java:89)
+	at org.springframework.context.support.ApplicationObjectSupport.initApplicationContext(ApplicationObjectSupport.java:119)
+	at org.springframework.web.context.support.WebApplicationObjectSupport.initApplicationContext(WebApplicationObjectSupport.java:72)
+	at org.springframework.context.support.ApplicationObjectSupport.setApplicationContext(ApplicationObjectSupport.java:73)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.invokeAwareInterfaces(ApplicationContextAwareProcessor.java:117)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.postProcessBeforeInitialization(ApplicationContextAwareProcessor.java:92)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:394)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1448)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	... 21 more
+Caused by: java.lang.ClassNotFoundException: com.roamly.oss.controllers.security.CustomAuthenticationProvider
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1680)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1526)
+	at org.springframework.util.ClassUtils.forName(ClassUtils.java:258)
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.resolveBeanClass(AbstractBeanDefinition.java:417)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doResolveBeanClass(AbstractBeanFactory.java:1283)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1254)
+	... 36 more
+Related cause:
+org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.roamly.oss.controllers.security.CustomAuthenticationProvider] for bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]; nested exception is java.lang.ClassNotFoundException: com.roamly.oss.controllers.security.CustomAuthenticationProvider
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1262)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1331)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:317)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:396)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1164)
+	at org.springframework.beans.factory.BeanFactoryUtils.beansOfTypeIncludingAncestors(BeanFactoryUtils.java:275)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.detectMappedInterceptors(AbstractHandlerMapping.java:212)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.initApplicationContext(AbstractHandlerMapping.java:186)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initApplicationContext(AbstractHandlerMethodMapping.java:88)
+	at org.springframework.context.support.ApplicationObjectSupport.initApplicationContext(ApplicationObjectSupport.java:119)
+	at org.springframework.web.context.support.WebApplicationObjectSupport.initApplicationContext(WebApplicationObjectSupport.java:72)
+	at org.springframework.context.support.ApplicationObjectSupport.setApplicationContext(ApplicationObjectSupport.java:73)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.invokeAwareInterfaces(ApplicationContextAwareProcessor.java:117)
+	at org.springframework.context.support.ApplicationContextAwareProcessor.postProcessBeforeInitialization(ApplicationContextAwareProcessor.java:92)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:394)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1448)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:426)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1361)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1653)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1642)
+	at java.lang.Thread.run(Thread.java:679)
+Caused by: java.lang.ClassNotFoundException: com.roamly.oss.controllers.security.CustomAuthenticationProvider
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1680)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1526)
+	at org.springframework.util.ClassUtils.forName(ClassUtils.java:258)
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.resolveBeanClass(AbstractBeanDefinition.java:417)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doResolveBeanClass(AbstractBeanFactory.java:1283)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1254)
+	... 38 more
+22619 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+22620 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+7557 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7557 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+7377 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7377 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+314423 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+314423 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+10654 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+10676 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+9132 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+9184 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+13954 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+13955 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+9410 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+9434 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+9387 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+9388 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+9597 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+9618 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+3372 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+3372 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+9084 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+9084 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+15036 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+15087 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+194035 [http-8080-2] ERROR org.springframework.web.servlet.tags.form.InputTag  - Neither BindingResult nor plain target object for bean name 'FORM' available as request attribute
+java.lang.IllegalStateException: Neither BindingResult nor plain target object for bean name 'FORM' available as request attribute
+	at org.springframework.web.servlet.support.BindStatus.<init>(BindStatus.java:141)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getBindStatus(AbstractDataBoundFormElementTag.java:178)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getPropertyPath(AbstractDataBoundFormElementTag.java:198)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getName(AbstractDataBoundFormElementTag.java:164)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.autogenerateId(AbstractDataBoundFormElementTag.java:151)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.resolveId(AbstractDataBoundFormElementTag.java:142)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.writeDefaultAttributes(AbstractDataBoundFormElementTag.java:126)
+	at org.springframework.web.servlet.tags.form.AbstractHtmlElementTag.writeDefaultAttributes(AbstractHtmlElementTag.java:421)
+	at org.springframework.web.servlet.tags.form.InputTag.writeTagContent(InputTag.java:142)
+	at org.springframework.web.servlet.tags.form.AbstractFormTag.doStartTagInternal(AbstractFormTag.java:102)
+	at org.springframework.web.servlet.tags.RequestContextAwareTag.doStartTag(RequestContextAwareTag.java:79)
+	at org.apache.jsp.WEB_002dINF.jsp.NewFile_jsp._jspx_meth_form_005finput_005f0(NewFile_jsp.java:227)
+	at org.apache.jsp.WEB_002dINF.jsp.NewFile_jsp._jspService(NewFile_jsp.java:146)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.forward(ServletTilesRequestContext.java:241)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.dispatch(ServletTilesRequestContext.java:222)
+	at org.apache.tiles.renderer.impl.TemplateAttributeRenderer.write(TemplateAttributeRenderer.java:44)
+	at org.apache.tiles.renderer.impl.AbstractBaseAttributeRenderer.render(AbstractBaseAttributeRenderer.java:103)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:669)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:689)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:643)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:626)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:322)
+	at org.springframework.web.servlet.view.tiles2.TilesView.renderMergedOutputModel(TilesView.java:124)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:368)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:109)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:83)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:97)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:78)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:54)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:35)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilter(BasicAuthenticationFilter.java:177)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:187)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:79)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:169)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:259)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:679)
+216875 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+216875 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+231107 [http-8080-2] ERROR org.springframework.web.servlet.tags.form.InputTag  - Neither BindingResult nor plain target object for bean name 'FORM' available as request attribute
+java.lang.IllegalStateException: Neither BindingResult nor plain target object for bean name 'FORM' available as request attribute
+	at org.springframework.web.servlet.support.BindStatus.<init>(BindStatus.java:141)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getBindStatus(AbstractDataBoundFormElementTag.java:178)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getPropertyPath(AbstractDataBoundFormElementTag.java:198)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getName(AbstractDataBoundFormElementTag.java:164)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.autogenerateId(AbstractDataBoundFormElementTag.java:151)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.resolveId(AbstractDataBoundFormElementTag.java:142)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.writeDefaultAttributes(AbstractDataBoundFormElementTag.java:126)
+	at org.springframework.web.servlet.tags.form.AbstractHtmlElementTag.writeDefaultAttributes(AbstractHtmlElementTag.java:421)
+	at org.springframework.web.servlet.tags.form.InputTag.writeTagContent(InputTag.java:142)
+	at org.springframework.web.servlet.tags.form.AbstractFormTag.doStartTagInternal(AbstractFormTag.java:102)
+	at org.springframework.web.servlet.tags.RequestContextAwareTag.doStartTag(RequestContextAwareTag.java:79)
+	at org.apache.jsp.WEB_002dINF.jsp.NewFile_jsp._jspx_meth_form_005finput_005f0(NewFile_jsp.java:227)
+	at org.apache.jsp.WEB_002dINF.jsp.NewFile_jsp._jspService(NewFile_jsp.java:146)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.forward(ServletTilesRequestContext.java:241)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.dispatch(ServletTilesRequestContext.java:222)
+	at org.apache.tiles.renderer.impl.TemplateAttributeRenderer.write(TemplateAttributeRenderer.java:44)
+	at org.apache.tiles.renderer.impl.AbstractBaseAttributeRenderer.render(AbstractBaseAttributeRenderer.java:103)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:669)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:689)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:643)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:626)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:322)
+	at org.springframework.web.servlet.view.tiles2.TilesView.renderMergedOutputModel(TilesView.java:124)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:789)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:368)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:109)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:83)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:97)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:78)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:54)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:35)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilter(BasicAuthenticationFilter.java:177)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:187)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:79)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:169)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:259)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:679)
+13248 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+13248 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+22046 [http-8080-2] ERROR org.springframework.web.servlet.tags.form.InputTag  - Neither BindingResult nor plain target object for bean name 'FORM' available as request attribute
+java.lang.IllegalStateException: Neither BindingResult nor plain target object for bean name 'FORM' available as request attribute
+	at org.springframework.web.servlet.support.BindStatus.<init>(BindStatus.java:141)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getBindStatus(AbstractDataBoundFormElementTag.java:178)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getPropertyPath(AbstractDataBoundFormElementTag.java:198)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getName(AbstractDataBoundFormElementTag.java:164)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.autogenerateId(AbstractDataBoundFormElementTag.java:151)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.resolveId(AbstractDataBoundFormElementTag.java:142)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.writeDefaultAttributes(AbstractDataBoundFormElementTag.java:126)
+	at org.springframework.web.servlet.tags.form.AbstractHtmlElementTag.writeDefaultAttributes(AbstractHtmlElementTag.java:421)
+	at org.springframework.web.servlet.tags.form.InputTag.writeTagContent(InputTag.java:142)
+	at org.springframework.web.servlet.tags.form.AbstractFormTag.doStartTagInternal(AbstractFormTag.java:102)
+	at org.springframework.web.servlet.tags.RequestContextAwareTag.doStartTag(RequestContextAwareTag.java:79)
+	at org.apache.jsp.WEB_002dINF.jsp.NewFile_jsp._jspx_meth_form_005finput_005f0(NewFile_jsp.java:228)
+	at org.apache.jsp.WEB_002dINF.jsp.NewFile_jsp._jspService(NewFile_jsp.java:147)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.forward(ServletTilesRequestContext.java:241)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.dispatch(ServletTilesRequestContext.java:222)
+	at org.apache.tiles.renderer.impl.TemplateAttributeRenderer.write(TemplateAttributeRenderer.java:44)
+	at org.apache.tiles.renderer.impl.AbstractBaseAttributeRenderer.render(AbstractBaseAttributeRenderer.java:103)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:669)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:689)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:643)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:626)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:322)
+	at org.springframework.web.servlet.view.tiles2.TilesView.renderMergedOutputModel(TilesView.java:124)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:789)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:368)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:109)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:83)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:97)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:78)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:54)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:35)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilter(BasicAuthenticationFilter.java:177)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:187)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:79)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:169)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:259)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:679)
+15292 [http-8080-1] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+15292 [http-8080-1] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+16321 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+16321 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+78337 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+78337 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+9118 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+9131 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+50795 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+50795 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+86502 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+86502 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+11361 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+11379 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+59136 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+59136 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+31855 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+31856 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+12431 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+12451 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+12789 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+12789 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+5019 [http-8080-2] ERROR org.springframework.web.servlet.tags.MessageTag  - No message found under code 'label.title' for locale 'en'.
+javax.servlet.jsp.JspTagException: No message found under code 'label.title' for locale 'en'.
+	at org.springframework.web.servlet.tags.MessageTag.doStartTagInternal(MessageTag.java:184)
+	at org.springframework.web.servlet.tags.RequestContextAwareTag.doStartTag(RequestContextAwareTag.java:79)
+	at org.apache.jsp.WEB_002dINF.jsp.login_jsp._jspx_meth_spring_005fmessage_005f0(login_jsp.java:212)
+	at org.apache.jsp.WEB_002dINF.jsp.login_jsp._jspService(login_jsp.java:71)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.forward(ServletTilesRequestContext.java:241)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.dispatch(ServletTilesRequestContext.java:222)
+	at org.apache.tiles.renderer.impl.TemplateAttributeRenderer.write(TemplateAttributeRenderer.java:44)
+	at org.apache.tiles.renderer.impl.AbstractBaseAttributeRenderer.render(AbstractBaseAttributeRenderer.java:103)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:669)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:689)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:643)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:626)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:322)
+	at org.springframework.web.servlet.view.tiles2.TilesView.renderMergedOutputModel(TilesView.java:124)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:368)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:109)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:83)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:97)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:78)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:54)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:35)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilter(BasicAuthenticationFilter.java:177)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:187)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:79)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:169)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:259)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:679)
+20106 [http-8080-2] ERROR org.springframework.web.servlet.tags.MessageTag  - No message found under code 'label.title' for locale 'en'.
+javax.servlet.jsp.JspTagException: No message found under code 'label.title' for locale 'en'.
+	at org.springframework.web.servlet.tags.MessageTag.doStartTagInternal(MessageTag.java:184)
+	at org.springframework.web.servlet.tags.RequestContextAwareTag.doStartTag(RequestContextAwareTag.java:79)
+	at org.apache.jsp.WEB_002dINF.jsp.login_jsp._jspx_meth_spring_005fmessage_005f0(login_jsp.java:212)
+	at org.apache.jsp.WEB_002dINF.jsp.login_jsp._jspService(login_jsp.java:71)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.forward(ServletTilesRequestContext.java:241)
+	at org.apache.tiles.servlet.context.ServletTilesRequestContext.dispatch(ServletTilesRequestContext.java:222)
+	at org.apache.tiles.renderer.impl.TemplateAttributeRenderer.write(TemplateAttributeRenderer.java:44)
+	at org.apache.tiles.renderer.impl.AbstractBaseAttributeRenderer.render(AbstractBaseAttributeRenderer.java:103)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:669)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:689)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:643)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:626)
+	at org.apache.tiles.impl.BasicTilesContainer.render(BasicTilesContainer.java:322)
+	at org.springframework.web.servlet.view.tiles2.TilesView.renderMergedOutputModel(TilesView.java:124)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:262)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1180)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:950)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:852)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:882)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:778)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:368)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:109)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:83)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:97)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:78)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:54)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:35)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilter(BasicAuthenticationFilter.java:177)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:187)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:79)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:169)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:259)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:602)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:679)
+184708 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+184708 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+1933 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.authentication.ProviderManager#0': Cannot create inner bean '(inner bean)' of type [org.springframework.security.config.authentication.AuthenticationManagerFactoryBean] while setting bean property 'parent'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name '(inner bean)#16': FactoryBean threw exception on object creation; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.authenticationManager': Cannot resolve reference to bean 'userAuthentication' while setting bean property 'providers' with key [0]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	params cannot be resolved
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsByUserName cannot be resolved to a type
+	UserFullDetailsByUserName cannot be resolved to a type
+	Hash cannot be resolved
+	params cannot be resolved
+	params cannot be resolved
+	UserDetailsWebService cannot be resolved to a type
+	UserDetailsWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveInnerBean(BeanDefinitionValueResolver.java:281)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:125)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1360)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:426)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1361)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1653)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1642)
+	at java.lang.Thread.run(Thread.java:679)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name '(inner bean)#16': FactoryBean threw exception on object creation; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.authenticationManager': Cannot resolve reference to bean 'userAuthentication' while setting bean property 'providers' with key [0]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	params cannot be resolved
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsByUserName cannot be resolved to a type
+	UserFullDetailsByUserName cannot be resolved to a type
+	Hash cannot be resolved
+	params cannot be resolved
+	params cannot be resolved
+	UserDetailsWebService cannot be resolved to a type
+	UserDetailsWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:149)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.getObjectFromFactoryBean(FactoryBeanRegistrySupport.java:109)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveInnerBean(BeanDefinitionValueResolver.java:274)
+	... 25 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.authenticationManager': Cannot resolve reference to bean 'userAuthentication' while setting bean property 'providers' with key [0]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	params cannot be resolved
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsByUserName cannot be resolved to a type
+	UserFullDetailsByUserName cannot be resolved to a type
+	Hash cannot be resolved
+	params cannot be resolved
+	params cannot be resolved
+	UserDetailsWebService cannot be resolved to a type
+	UserDetailsWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveManagedList(BeanDefinitionValueResolver.java:353)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1360)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.security.config.authentication.AuthenticationManagerFactoryBean.getObject(AuthenticationManagerFactoryBean.java:27)
+	at org.springframework.security.config.authentication.AuthenticationManagerFactoryBean.getObject(AuthenticationManagerFactoryBean.java:20)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:142)
+	... 27 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	params cannot be resolved
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsByUserName cannot be resolved to a type
+	UserFullDetailsByUserName cannot be resolved to a type
+	Hash cannot be resolved
+	params cannot be resolved
+	params cannot be resolved
+	UserDetailsWebService cannot be resolved to a type
+	UserDetailsWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:997)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:943)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:485)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+	... 41 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	params cannot be resolved
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsByUserName cannot be resolved to a type
+	UserFullDetailsByUserName cannot be resolved to a type
+	Hash cannot be resolved
+	params cannot be resolved
+	params cannot be resolved
+	UserDetailsWebService cannot be resolved to a type
+	UserDetailsWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:162)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:76)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:990)
+	... 49 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	The import com.roamly.user cannot be resolved
+	params cannot be resolved
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	UserDetailsByUserNameWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsByUserName cannot be resolved to a type
+	UserFullDetailsByUserName cannot be resolved to a type
+	Hash cannot be resolved
+	params cannot be resolved
+	params cannot be resolved
+	UserDetailsWebService cannot be resolved to a type
+	UserDetailsWebService cannot be resolved to a type
+	params cannot be resolved to a variable
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetailsRs cannot be resolved to a type
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at com.roamly.oss.controllers.security.CustomAuthenticationProvider.<init>(CustomAuthenticationProvider.java:26)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:532)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:147)
+	... 51 more
+11357 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+11357 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+7945 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7945 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+1239 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] ERROR org.springframework.web.context.ContextLoader  - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.authentication.ProviderManager#0': Cannot create inner bean '(inner bean)' of type [org.springframework.security.config.authentication.AuthenticationManagerFactoryBean] while setting bean property 'parent'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name '(inner bean)#16': FactoryBean threw exception on object creation; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.authenticationManager': Cannot resolve reference to bean 'userAuthentication' while setting bean property 'providers' with key [0]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.oss.model.customer.CustomerFullDetails cannot be resolved
+	CustomerFullDetails cannot be resolved to a type
+	CustomerFullDetails cannot be resolved to a type
+	The method getResponseObject() from the type WebService<CustomerFullDetails> refers to the missing type CustomerFullDetails
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveInnerBean(BeanDefinitionValueResolver.java:281)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:125)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1360)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:585)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:913)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:464)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:385)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:284)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:111)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4206)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4705)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3461)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:426)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1361)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1653)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1662)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1642)
+	at java.lang.Thread.run(Thread.java:679)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name '(inner bean)#16': FactoryBean threw exception on object creation; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.authenticationManager': Cannot resolve reference to bean 'userAuthentication' while setting bean property 'providers' with key [0]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.oss.model.customer.CustomerFullDetails cannot be resolved
+	CustomerFullDetails cannot be resolved to a type
+	CustomerFullDetails cannot be resolved to a type
+	The method getResponseObject() from the type WebService<CustomerFullDetails> refers to the missing type CustomerFullDetails
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:149)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.getObjectFromFactoryBean(FactoryBeanRegistrySupport.java:109)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveInnerBean(BeanDefinitionValueResolver.java:274)
+	... 25 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.security.authenticationManager': Cannot resolve reference to bean 'userAuthentication' while setting bean property 'providers' with key [0]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.oss.model.customer.CustomerFullDetails cannot be resolved
+	CustomerFullDetails cannot be resolved to a type
+	CustomerFullDetails cannot be resolved to a type
+	The method getResponseObject() from the type WebService<CustomerFullDetails> refers to the missing type CustomerFullDetails
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveManagedList(BeanDefinitionValueResolver.java:353)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:153)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1360)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1118)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.security.config.authentication.AuthenticationManagerFactoryBean.getObject(AuthenticationManagerFactoryBean.java:27)
+	at org.springframework.security.config.authentication.AuthenticationManagerFactoryBean.getObject(AuthenticationManagerFactoryBean.java:20)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:142)
+	... 27 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userAuthentication' defined in ServletContext resource [/WEB-INF/spring/spring-security.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.oss.model.customer.CustomerFullDetails cannot be resolved
+	CustomerFullDetails cannot be resolved to a type
+	CustomerFullDetails cannot be resolved to a type
+	The method getResponseObject() from the type WebService<CustomerFullDetails> refers to the missing type CustomerFullDetails
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:997)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:943)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:485)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:294)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:225)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:291)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+	... 41 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.roamly.oss.controllers.security.CustomAuthenticationProvider]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.oss.model.customer.CustomerFullDetails cannot be resolved
+	CustomerFullDetails cannot be resolved to a type
+	CustomerFullDetails cannot be resolved to a type
+	The method getResponseObject() from the type WebService<CustomerFullDetails> refers to the missing type CustomerFullDetails
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:162)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:76)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:990)
+	... 49 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The import com.roamly.oss.model.customer.CustomerFullDetails cannot be resolved
+	CustomerFullDetails cannot be resolved to a type
+	CustomerFullDetails cannot be resolved to a type
+	The method getResponseObject() from the type WebService<CustomerFullDetails> refers to the missing type CustomerFullDetails
+	UserFullDetail cannot be resolved to a type
+	user cannot be resolved to a variable
+	user cannot be resolved
+	user cannot be resolved to a variable
+	Syntax error, insert "}" to complete Statement
+	Syntax error, insert "else Statement" to complete IfStatement
+	Syntax error, insert "}" to complete Block
+	Syntax error, insert "Finally" to complete TryStatement
+
+	at com.roamly.oss.controllers.security.CustomAuthenticationProvider.<init>(CustomAuthenticationProvider.java:26)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:532)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:147)
+	... 51 more
+55957 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+55957 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+18695 [http-8080-6] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+18695 [http-8080-6] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+8058 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+8058 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+8342 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+8342 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+479647 [http-8080-2] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+479647 [http-8080-2] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+7998 [http-8080-1] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+7998 [http-8080-1] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
+493904 [http-8080-4] ERROR com.roamly.oss.controllers.customer.test  - Sample error message
+493904 [http-8080-4] FATAL com.roamly.oss.controllers.customer.test  - Sample fatal message
